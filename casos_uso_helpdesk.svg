@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1450" height="1150" viewBox="0 0 1450 1150" font-family="Helvetica, Arial, sans-serif">
+<defs><marker id="open" viewBox="0 0 12 12" refX="11" refY="6" markerWidth="12" markerHeight="12" orient="auto"><path d="M1 1 L11 6 L1 11" fill="none" stroke="#1f2937" stroke-width="1.4"/></marker></defs>
+<rect width="1450" height="1150" fill="#ffffff"/>
+<rect x="230" y="20" width="990" height="1105" fill="#f8fafc" stroke="#1f2937" stroke-width="2"/>
+<text x="244" y="44" font-size="16" font-weight="700" fill="#1f2937">Sistema: Edu HelpDesk</text>
+<line x1="118.0" y1="378.2" x2="363.8" y2="145.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="386.7" x2="374.3" y2="238.9" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="394.0" x2="368.6" y2="328.8" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="400.0" x2="620.0" y2="400.0" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="406.0" x2="368.6" y2="471.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="412.9" x2="374.5" y2="556.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="118.0" y1="420.8" x2="365.3" y2="644.9" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="378.2" x2="1086.2" y2="145.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="386.7" x2="1075.7" y2="238.9" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="394.0" x2="1081.4" y2="328.8" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="400.0" x2="830.0" y2="400.0" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="406.0" x2="1081.4" y2="471.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="412.9" x2="1075.5" y2="556.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="675.0" x2="1090.0" y2="675.0" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="915.7" x2="1075.9" y2="812.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="922.1" x2="1090.6" y2="891.8" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="927.9" x2="1090.6" y2="958.2" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="1332.0" y1="934.3" x2="1075.9" y2="1037.8" stroke="#1f2937" stroke-width="1.4"/>
+<line x1="484.9" y1="108.7" x2="630.4" y2="91.3" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="529.7" y="80.0" width="63.6" height="17" fill="#f8fafc"/>
+<text x="532.7" y="92.0" font-size="11.5" font-style="italic" fill="#1f2937">«include»</text>
+<line x1="1020.0" y1="605.8" x2="998.0" y2="649.2" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="1012.0" y="619.5" width="63.6" height="17" fill="#f8fafc"/>
+<text x="1015.0" y="631.5" font-size="11.5" font-style="italic" fill="#1f2937">«include»</text>
+<line x1="725.0" y1="149.0" x2="725.0" y2="106.0" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="728.0" y="119.5" width="57.2" height="17" fill="#f8fafc"/>
+<text x="731.0" y="131.5" font-size="11.5" font-style="italic" fill="#1f2937">«extend»</text>
+<line x1="725.0" y1="326.0" x2="725.0" y2="374.0" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="728.0" y="342.0" width="57.2" height="17" fill="#f8fafc"/>
+<text x="731.0" y="354.0" font-size="11.5" font-style="italic" fill="#1f2937">«extend»</text>
+<line x1="725.0" y1="474.0" x2="725.0" y2="426.0" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="728.0" y="442.0" width="57.2" height="17" fill="#f8fafc"/>
+<text x="731.0" y="454.0" font-size="11.5" font-style="italic" fill="#1f2937">«extend»</text>
+<line x1="830.0" y1="970.0" x2="892.0" y2="970.0" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/>
+<rect x="833.0" y="950.0" width="57.2" height="17" fill="#f8fafc"/>
+<text x="836.0" y="962.0" font-size="11.5" font-style="italic" fill="#1f2937">«extend»</text>
+<ellipse cx="725" cy="80" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="84.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Autenticar</text>
+<ellipse cx="725" cy="175" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="172.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Recuperar</text>
+<text x="725" y="186.0" font-size="12.5" text-anchor="middle" fill="#1f2937">palavra-passe</text>
+<ellipse cx="725" cy="300" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="297.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Usar resposta</text>
+<text x="725" y="311.0" font-size="12.5" text-anchor="middle" fill="#1f2937">pré-definida</text>
+<ellipse cx="725" cy="400" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="404.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Comentar ticket</text>
+<ellipse cx="725" cy="500" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="504.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Anexar ficheiro</text>
+<ellipse cx="725" cy="970" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="725" y="967.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Exportar lista de</text>
+<text x="725" y="981.0" font-size="12.5" text-anchor="middle" fill="#1f2937">tickets</text>
+<ellipse cx="390.3333333333333" cy="120" rx="105.0" ry="26.0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.4"/>
+<text x="390.3333333333333" y="117.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Submeter ticket de</text>
+<text x="390.3333333333333" y="131.0" font-size="12.5" text-anchor="middle" fill="#1f2937">suporte</text>
+<ellipse cx="415.6666666666667" cy="215" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="415.6666666666667" y="212.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Consultar e filtrar os</text>
+<text x="415.6666666666667" y="226.0" font-size="12.5" text-anchor="middle" fill="#1f2937">meus tickets</text>
+<ellipse cx="441.0" cy="310" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="441.0" y="307.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Cancelar ticket</text>
+<text x="441.0" y="321.0" font-size="12.5" text-anchor="middle" fill="#1f2937">pendente</text>
+<ellipse cx="441.0" cy="490" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="441.0" y="487.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Reabrir ticket</text>
+<text x="441.0" y="501.0" font-size="12.5" text-anchor="middle" fill="#1f2937">resolvido</text>
+<ellipse cx="417.0" cy="580" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="417.0" y="584.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Avaliar o suporte</text>
+<ellipse cx="393.0" cy="670" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="393.0" y="674.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Consultar FAQ</text>
+<ellipse cx="1059.6666666666667" cy="120" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1059.6666666666667" y="124.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Ver tickets abertos</text>
+<ellipse cx="1034.3333333333333" cy="215" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1034.3333333333333" y="219.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Pesquisar tickets</text>
+<ellipse cx="1009.0" cy="310" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1009.0" y="307.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Definir prioridade do</text>
+<text x="1009.0" y="321.0" font-size="12.5" text-anchor="middle" fill="#1f2937">ticket</text>
+<ellipse cx="1009.0" cy="490" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1009.0" y="494.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Reencaminhar ticket</text>
+<ellipse cx="1033.0" cy="580" rx="105.0" ry="26.0" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.4"/>
+<text x="1033.0" y="577.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Alterar estado do</text>
+<text x="1033.0" y="591.0" font-size="12.5" text-anchor="middle" fill="#1f2937">ticket</text>
+<ellipse cx="985.0" cy="675" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="985.0" y="672.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Enviar notificação por</text>
+<text x="985.0" y="686.0" font-size="12.5" text-anchor="middle" fill="#1f2937">email</text>
+<ellipse cx="1021.0" cy="790" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1021.0" y="787.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Gerir utilizadores e</text>
+<text x="1021.0" y="801.0" font-size="12.5" text-anchor="middle" fill="#1f2937">perfis</text>
+<ellipse cx="997.0" cy="880" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="997.0" y="877.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Gerir categorias de</text>
+<text x="997.0" y="891.0" font-size="12.5" text-anchor="middle" fill="#1f2937">tickets</text>
+<ellipse cx="997.0" cy="970" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="997.0" y="967.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Gerar relatórios de</text>
+<text x="997.0" y="981.0" font-size="12.5" text-anchor="middle" fill="#1f2937">desempenho</text>
+<ellipse cx="1021.0" cy="1060" rx="105.0" ry="26.0" fill="#ffffff" stroke="#1f2937" stroke-width="1.4"/>
+<text x="1021.0" y="1057.0" font-size="12.5" text-anchor="middle" fill="#1f2937">Consultar ocupação das</text>
+<text x="1021.0" y="1071.0" font-size="12.5" text-anchor="middle" fill="#1f2937">salas</text>
+<g stroke="#1f2937" stroke-width="2" fill="#ffffff"><circle cx="95" cy="376.0" r="8"/><line x1="95" y1="384.0" x2="95" y2="408.0"/><line x1="80" y1="392.0" x2="110" y2="392.0"/><line x1="95" y1="408.0" x2="82" y2="428.0"/><line x1="95" y1="408.0" x2="108" y2="428.0"/></g>
+<text x="95" y="448.0" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Utilizador</text>
+<text x="95" y="463.0" font-size="11" text-anchor="middle" fill="#6b7280">(professor / aluno)</text>
+<g stroke="#1f2937" stroke-width="2" fill="#ffffff"><circle cx="1355" cy="376.0" r="8"/><line x1="1355" y1="384.0" x2="1355" y2="408.0"/><line x1="1340" y1="392.0" x2="1370" y2="392.0"/><line x1="1355" y1="408.0" x2="1342" y2="428.0"/><line x1="1355" y1="408.0" x2="1368" y2="428.0"/></g>
+<text x="1355" y="448.0" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Técnico de TI</text>
+<text x="1355" y="463.0" font-size="11" text-anchor="middle" fill="#6b7280">(gestor de equipamentos)</text>
+<g stroke="#1f2937" stroke-width="2" fill="#ffffff"><circle cx="1355" cy="651.0" r="8"/><line x1="1355" y1="659.0" x2="1355" y2="683.0"/><line x1="1340" y1="667.0" x2="1370" y2="667.0"/><line x1="1355" y1="683.0" x2="1342" y2="703.0"/><line x1="1355" y1="683.0" x2="1368" y2="703.0"/></g>
+<text x="1355" y="723.0" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Serviço de email</text>
+<text x="1355" y="738.0" font-size="11" text-anchor="middle" fill="#6b7280">(sistema externo)</text>
+<g stroke="#1f2937" stroke-width="2" fill="#ffffff"><circle cx="1355" cy="901.0" r="8"/><line x1="1355" y1="909.0" x2="1355" y2="933.0"/><line x1="1340" y1="917.0" x2="1370" y2="917.0"/><line x1="1355" y1="933.0" x2="1342" y2="953.0"/><line x1="1355" y1="933.0" x2="1368" y2="953.0"/></g>
+<text x="1355" y="973.0" font-size="13" font-weight="700" text-anchor="middle" fill="#1f2937">Administrador</text>
+<text x="1355" y="988.0" font-size="11" text-anchor="middle" fill="#6b7280">(gestor de salas)</text>
+<path d="M605 735 h225 l15 15 v78 h-240 z" fill="#fffbeb" stroke="#a16207" stroke-width="1.2"/>
+<path d="M830 735 v15 h15" fill="none" stroke="#a16207" stroke-width="1.2"/>
+<text x="615" y="757" font-size="11.5" fill="#1f2937">Nota: todos os casos de uso de</text>
+<text x="615" y="771" font-size="11.5" fill="#1f2937">Utilizador, Técnico e Administrador</text>
+<text x="615" y="785" font-size="11.5" fill="#1f2937">pressupõem sessão iniciada</text>
+<text x="615" y="799" font-size="11.5" fill="#1f2937">(ver «Autenticar»), exceto</text>
+<text x="615" y="813" font-size="11.5" fill="#1f2937">«Recuperar palavra-passe».</text>
+<rect x="605" y="840" width="240" height="96" fill="#ffffff" stroke="#6b7280" stroke-width="1"/>
+<text x="615" y="858" font-size="12" font-weight="700" fill="#1f2937">Legenda</text>
+<line x1="615" y1="874" x2="665" y2="874" stroke="#1f2937" stroke-width="1.4"/><text x="673" y="878" font-size="11.5" fill="#1f2937">associação (ator ↔ caso de uso)</text>
+<line x1="615" y1="894" x2="665" y2="894" stroke="#1f2937" stroke-width="1.4" stroke-dasharray="6 4" marker-end="url(#open)"/><text x="673" y="898" font-size="11.5" fill="#1f2937">«include» / «extend»</text>
+<ellipse cx="640" cy="916" rx="25" ry="10" fill="#dbeafe" stroke="#1d4ed8" stroke-width="2.4"/><text x="673" y="920" font-size="11.5" fill="#1f2937">caso de uso crítico (Parte A)</text>
+</svg>
