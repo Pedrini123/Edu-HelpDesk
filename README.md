@@ -28,6 +28,10 @@ Conforme as instruções do **Guião de Diagramas no Draw.io** (para a **Tarefa 
 4. **[`er_helpdesk.drawio`](./er_helpdesk.drawio)** — **Diagrama Entidade-Relacionamento (E-R)**
    - Modelo relacional da base de dados com tabelas, chaves primárias (`PK`), chaves estrangeiras (`FK`) e cardinalidades `1:N` / `1:1`.
 
+## 📅 Planeamento
+
+- **[`Diagrama_Gantt.md`](./Diagrama_Gantt.md)** — Diagrama de Gantt com as fases do projeto, sprints e distribuição das user stories.
+
 ---
 
 ## 📋 Mapeamento das User Stories (Backlog Priorizado - Tarefa 4)
